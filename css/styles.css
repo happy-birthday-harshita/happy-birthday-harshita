@@ -1,0 +1,89 @@
+.open{
+  font-family: Shadows Into Light;
+  font-size: 4.5rem;
+  line-height: 1.5;
+  color: #fff;
+  text-align: center;
+  margin-left: 350px;
+
+}
+#test-1{
+  padding-top: 5%;
+    background-color: #D0C9C0;
+}
+#pics{
+  background-color: #6D8B74;
+}
+/* #test-1{
+  position: absolute;
+  top: 10%;
+  width: 100%;
+  text-align: left;
+  font-size: 55px;
+  font-family: Montaplex;
+  color: #fff;
+} */
+/* .left{
+  position: absolute;
+  top: 10%;
+  width: 100%;
+  text-align: left;
+  font-size: 55px;
+  font-family: Montaplex;
+  color: #fff;
+} */
+#test-1 .container-fluid {
+  padding: 3% 15% 7%;
+  text-align: left;
+}
+/* .right{
+  width: 20%;
+  position: absolute;
+  right: 25%;
+} */
+/* .centre-text {
+  margin: 0 20px 100px 25px;
+  font-size: 4.5rem;
+  line-height: 1;
+} */
+
+/* .left {
+  float: left;
+  width: 60%;
+  padding: 10px;
+}
+
+.right {
+  float: right;
+  width: 40%;
+  height: 40%;
+  padding: 120px;
+} */
+.msg{
+  margin-right: 60px;
+  margin-left: 60px;
+  padding-top: 40px;
+  font-size: 2rem;
+  text-align: center;
+  font-family: "Montserrat";
+  color: #fff;
+}
+
+/* Pictures Section */
+
+.photo{
+  width: 40%;
+  height: 35%;
+  border: 100%;
+  margin-left: 30%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding: 20px;
+}
+
+.para{
+  color: white;
+  text-align: center;
+  font-size: 1.3rem;
+  font-family: Oleo Script Swash Caps;
+}
